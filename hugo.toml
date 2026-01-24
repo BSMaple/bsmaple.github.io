@@ -1,0 +1,32 @@
+baseURL = "https://bsmaple.github.io/"
+languageCode = "zh-cn"
+title = "BSMaple 的技术博客"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+  [params.homeInfoParams]
+    Title = "Hi, 我是 BSMaple 👋"
+    Content = "这里记录我的的学习与项目复盘。"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3

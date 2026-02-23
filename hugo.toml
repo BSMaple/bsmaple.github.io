@@ -5,6 +5,9 @@ theme = "PaperMod"
 
 enableRobotsTXT = true
 
+[author]
+  name = "BSMaple"
+
 [params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true

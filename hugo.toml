@@ -9,6 +9,9 @@ enableRobotsTXT = true
   name = "BSMaple"
 
 [params]
+  author = "BSMaple"
+
+[params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
